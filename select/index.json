@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Stupid Boy",
+  "base_artist": "Young zetton",
+  "createdAt": "2025-12-05T16:04:09.445837Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stupid Boy",
+      "artist": "Gear Daddies",
+      "has_synced": true,
+      "path": "select/01_Stupid_Boy_Gear_Daddies.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stupid Boy",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/02_Stupid_Boy_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stupid Boy - The Voice Performance",
+      "artist": "Cassadee Pope",
+      "has_synced": false,
+      "path": "select/03_Stupid_Boy_-_The_Voice_Performance_Cassadee_Pope.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stupid Boy",
+      "artist": "Owl John",
+      "has_synced": true,
+      "path": "select/04_Stupid_Boy_Owl_John.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stupid Boy",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/05_Stupid_Boy_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Little Stupid Boy",
+      "artist": "ARAI",
+      "has_synced": true,
+      "path": "select/06_Little_Stupid_Boy_ARAI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stupid Boy",
+      "artist": "Travis Mills",
+      "has_synced": true,
+      "path": "select/07_Stupid_Boy_Travis_Mills.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stupid Boy",
+      "artist": "Sarah Buxton",
+      "has_synced": true,
+      "path": "select/08_Stupid_Boy_Sarah_Buxton.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stupid Boy",
+      "artist": "T. Mills",
+      "has_synced": true,
+      "path": "select/09_Stupid_Boy_T._Mills.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stupid Boy",
+      "artist": "Julia Sheer",
+      "has_synced": true,
+      "path": "select/10_Stupid_Boy_Julia_Sheer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stupid Boy",
+      "artist": "Tenille Townes",
+      "has_synced": true,
+      "path": "select/11_Stupid_Boy_Tenille_Townes.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stupid Boy",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/12_Stupid_Boy_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stupid Boy",
+      "artist": "Slayyyter",
+      "has_synced": true,
+      "path": "select/13_Stupid_Boy_Slayyyter.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stupid Boy",
+      "artist": "Young zetton",
+      "has_synced": false,
+      "path": "select/pl_01_Stupid_Boy_Young_zetton.txt"
+    }
+  ]
+}
